@@ -17,7 +17,7 @@ Yanki is a microservice designed to offer a mobile wallet solution, allowing use
 
 #### Modify the file`bootstrap.yml`
 
-Configure the active profile to use Docker:
+Configure the active profile to use local:
 
 ```yaml
 spring:
