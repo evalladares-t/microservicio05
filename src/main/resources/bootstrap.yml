@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: microservicio05
+  profiles:
+    active: local
